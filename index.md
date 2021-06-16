@@ -1,7 +1,3 @@
-theme: jekyll-theme-cayman
-title: Welcome to my running journey!
-description: Feel free to reach out to start an open line of communication!
-
 ## Ameya Teli
 
 I am a junior on the Varsity Track & Field and Cross Country Team at [Great Oak High School](https://www.gohsathletics.com/). Please refer to this website for all stats.
