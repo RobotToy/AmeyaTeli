@@ -4,7 +4,7 @@ Hello, my name is Ameya. I am currently a Junior at [Great Oak High School](http
 - Cross Country
 - Track and Field (1600m & 3200m)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please contact me through email (meymey.teli@gmail.com) or text (951-something something)
 
 ### Markdown
 
