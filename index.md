@@ -6,6 +6,14 @@ Hello, my name is Ameya. I am currently a Junior at [Great Oak High School](http
 
 Please contact me through email (meymey.teli@gmail.com) or text (951-something something)
 
+## My Stats
+Track and Field
+- 1600m - 5:19.61
+- 3200m - 11:18.81
+- 800m - 2:38.08
+Cross Country
+- 5000m - 19:17.43
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
