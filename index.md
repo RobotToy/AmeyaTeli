@@ -1,6 +1,8 @@
-## Ameya Teli
+## Introduction
 
-I am a junior on the Varsity Track & Field and Cross Country Team at [Great Oak High School](https://www.gohsathletics.com/). Please refer to this website for all stats.
+Hello, my name is Ameya. I am currently a Junior at [Great Oak High School](https://www.gohsathletics.com/). This year, I will be competing in...
+- Cross Country
+- Track and Field (1600m & 3200m)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
