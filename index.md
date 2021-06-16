@@ -1,6 +1,6 @@
 ## Introduction
 
-Hello, my name is Ameya. I am currently a Junior at [Great Oak High School](https://www.gohsathletics.com/). This year, I will be competing in...
+Hello, my name is Ameya Teli. I am currently a Junior at [Great Oak High School](https://www.gohsathletics.com/). This year, I will be competing in:
 - Cross Country
 - Track and Field (1600m & 3200m)
 
