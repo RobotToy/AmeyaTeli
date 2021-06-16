@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+theme: jekyll-theme-cayman
+title: Welcome to my running journey!
+description: Feel free to reach out to start an open line of communication!
 
-You can use the [editor on GitHub](https://github.com/RobotToy/AmeyaTeli/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Ameya Teli
+
+I am a junior on the Varsity Track & Field and Cross Country Team at [Great Oak High School](https://www.gohsathletics.com/) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
