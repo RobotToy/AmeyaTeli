@@ -7,12 +7,15 @@ Hello, my name is Ameya Teli. I am currently a Junior at [Great Oak High School]
 Please contact me through email (meymey.teli@gmail.com) or text (951-something something)
 
 ## My Stats
-Track and Field
-- 1600m - 5:19.61
+'''
+### Track and Field
 - 3200m - 11:18.81
+- 1600m - 5:19.61
 - 800m - 2:38.08
-Cross Country
+
+### Cross Country
 - 5000m - 19:17.43
+- 3 mile - 17:41.10 
 
 ### Markdown
 
