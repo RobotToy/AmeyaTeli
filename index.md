@@ -18,34 +18,4 @@ Please contact me through email (meymey.teli@gmail.com) or text (951-something s
 - 3 mile --> 17:41.10 
 ```
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobotToy/AmeyaTeli/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Image](https://lh3.googleusercontent.com/3URXlBZOyssT6DI3gEkg5JYjhtevQlLxZf6hHeIRhKko_KTD6bPCFwatYSH3N8ypP94yvUaxuBIaThQPqILrdkjmf1URqIVUwr0xqmhbhajtzS02eiMC7Dui25HCQbcFpP3X-6uAmQLQe9uekMY8LZinauo-oYAXeZUiVx8gX0wTuE1wqny0kKddwoRKPerGaUuzMXaHsNPcmf5uVR_IjWreYdycvRDLuL2ihXCDyLFgzjSECu4x-SeaKjVX2oZ3DXMm_0ZKNtKutyrnln6ANJaAM1qU-Ya_iQE3ewqy05h9fefWFwIVwOnYMOELXu79ih9MfOCQUgDTSL75l4j_ODF9cpE-OnWR6p7YG1naGXqXbiRMuP0367bHj8Yh3P4Is1IjVBt5JacorgnWY7FX2uaH9KZ42juRniuBldAjWmUDByzRCYSI75v9f8IhbOV7EMF9qheSk5fmn_ueqPRB_517MqmHQxPHqBERV5m9vnUf_fwLXpNLsNazs3W_8kp7KhLomQzbTlx0z0uGRhIXxEkfVxWBqxFqgkI4p0MKoyg6SqHBetZFovfxziwOzOhQikNcBxFLJKEZXhKpr_20WAno25lZm9T5IsIjb8pvxSvfCgNZ-_o4X8hETNDPdtKcHm6tv3Z5D6ar2aBX3IX6W_gp7IfZWNK74vXGNIm0IbvzCOJLDUmpu1H4qa7lW6N2ekuSm94ts8HwHM_0q5oJTVNY=w960-h642-no?authuser=0)
